@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Lindenmaier László\Documents\LindenLaci\Oktatas\Prog_C_Matlab\C\Materials\02\ResultantResistance\ResultantResistance\main.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Lindenmaier László\Documents\LindenLaci\Oktatas\Prog_C_Matlab\C\Materials\02\ResultantResistance\ResultantResistance\main.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  ResultantResistance.vcxproj -> C:\Users\Lindenmaier László\Documents\LindenLaci\Oktatas\Prog_C_Matlab\C\Materials\02\ResultantResistance\Debug\ResultantResistance.exe

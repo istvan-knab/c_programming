@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82c2608e-879c-46b0-a7e7-c83ade729040": {
+      "ProjectGuid": "82c2608e-879c-46b0-a7e7-c83ade729040",
+      "DisplayName": "SecondDegreePolynomial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

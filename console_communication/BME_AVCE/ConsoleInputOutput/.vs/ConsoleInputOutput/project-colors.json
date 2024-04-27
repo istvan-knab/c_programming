@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ac27fe0-57af-4e4a-910b-70e790330115": {
+      "ProjectGuid": "5ac27fe0-57af-4e4a-910b-70e790330115",
+      "DisplayName": "ConsoleInputOutput",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

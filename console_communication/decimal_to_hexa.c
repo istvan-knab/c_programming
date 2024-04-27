@@ -10,7 +10,8 @@ int main(void)
     printf("Please give a number in decimal format:");
     int number;
     scanf("%d", &number);
-    printf("Decimal representation: %d\n", number);
+    printf("Decimal representation: %8d\n", number);
+    printf("Hexadecimal representation: %8X\n", number);
     return 0;
 }
 

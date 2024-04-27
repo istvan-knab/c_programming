@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1d2ae82-d16d-4931-b3c3-895d465cf95c": {
+      "ProjectGuid": "c1d2ae82-d16d-4931-b3c3-895d465cf95c",
+      "DisplayName": "ScanfBuffer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

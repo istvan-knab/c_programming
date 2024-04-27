@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0eb126ef-2393-43b1-9b23-ae1f18eca50e": {
+      "ProjectGuid": "0eb126ef-2393-43b1-9b23-ae1f18eca50e",
+      "DisplayName": "NumberGuesserRobot",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

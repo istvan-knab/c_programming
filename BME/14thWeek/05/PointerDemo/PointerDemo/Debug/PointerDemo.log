@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\hallgato\Documents\Visual Studio 2019\CourseMaterials_2021_2022_II\PointerDemo\PointerDemo\main.c(9,9): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+  PointerDemo.vcxproj -> C:\Users\hallgato\Documents\Visual Studio 2019\CourseMaterials_2021_2022_II\PointerDemo\Debug\PointerDemo.exe
