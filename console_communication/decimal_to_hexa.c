@@ -4,7 +4,7 @@
 //
 // Created by Knáb István Gellért on 27/04/2024.
 //
-int main(void)
+int main(int argc, char* argv[])
 {
     printf("Welcome to the decimal to hexadecimal Converter\n");
     printf("Please give a number in decimal format:");

@@ -4,7 +4,7 @@
 //
 // Created by Knáb István Gellért on 27/04/2024.
 //
-int main(void)
+int main(int argc, char* argv[])
 {
     // declaring datatype
     int number;
